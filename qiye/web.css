@@ -1,0 +1,480 @@
+@charset "gb2312";
+body {
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	font-family: "Microsoft Yahei";
+	}
+a.b1:link {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FF6600;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: none;
+}
+a.b1:visited {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FF6600;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: none;
+}
+a.b1:hover {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: none;
+}
+a.b1:active {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: bold;
+	text-transform: none;
+}
+a.b2:link {
+	font-family: "Microsoft Yahei";
+	font-size: 14px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.b2:visited {
+	font-family: "Microsoft Yahei";
+	font-size: 14px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.b2:hover {
+	font-family: "Microsoft Yahei";
+	font-size: 14px;
+	color: #FF0000;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.b2:active {
+	font-family: "Microsoft Yahei";
+	font-size: 14px;
+	color: #FF0000;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.hh:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000FF;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.hh:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000FF;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.hh:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF6600;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.hh:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF6600;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.a1:link {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FFFF00;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.a1:visited {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FFFF00;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.a1:hover {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.a1:active {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.a2:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000FF;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: none;
+}
+a.a2:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000FF;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: none;
+}
+a.a2:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: none;
+}
+a.a2:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+	text-transform: none;
+}
+a.a3:link {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #00FF00;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.a3:visited {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #00FF00;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.a3:hover {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.a3:active {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+	text-transform: capitalize;
+	text-decoration: none;
+}
+a.kk:link {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #33FFFF;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.kk:visited {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #33FFFF;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.kk:hover {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.kk:active {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.gg:link {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #99FFFF;
+	text-decoration: none;
+	font-weight: normal;
+}
+a.gg:visited {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #0099FF;
+	text-decoration: none;
+	font-weight: normal;
+}
+a.gg:hover {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+	font-weight: normal;
+}
+a.gg:active {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.ss:link {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FF00FF;
+	text-decoration: none;
+	font-weight: normal;
+}
+a.ss:visited {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FF00FF;
+	text-decoration: none;
+	font-weight: normal;
+}
+a.ss:hover {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+	font-weight: normal;
+}
+a.ss:active {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.tou:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFF00;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.tou:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFF00;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.tou:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FF9900;
+	text-decoration: blink;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.tou:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FF9900;
+	text-decoration: none;
+	font-weight: normal;
+	text-transform: capitalize;
+}
+a.tt:link {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+a.tt:visited {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+a.tt:hover {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: blink;
+}
+a.tt:active {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+.k1 {
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+	line-height: 15px;
+}
+.G1 {
+	font-size: 12px;
+	color: #666666;
+	font-family: "Microsoft Yahei";
+	font-weight: normal;
+	text-decoration: none;
+}
+.STYLE8 {
+	font-size: 12px;
+	color: #FF0000;
+	font-family: "Microsoft Yahei";
+	font-weight: normal;
+	text-decoration: none;
+}
+.lan {
+	font-family: "Microsoft Yahei";
+	font-size: 12px;
+	color: #000099;
+	text-decoration: none;
+}
+
+.E8 {
+	font-family: "Microsoft Yahei";
+	font-size: 14px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.ST2 {
+	font-size: 14px;
+	color: #FF0000;
+	font-family: "Microsoft Yahei";
+	font-weight: bold;
+}
+.uh {
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+
+
+
+.k2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: normal;
+}
+.k4 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: "黑体";
+	text-transform: none;
+	font-style: normal;
+}
+
+.gh14 {
+	font-family: "Microsoft Yahei";
+	font-size: 14px;
+	color: #666666;
+	line-height: normal;
+	font-weight: normal;
+	text-transform: capitalize;
+	text-decoration: none;
+}
+
+
+
+.l14 {
+	font-size: 14px;
+	color: #999999;
+	font-family: "Microsoft Yahei";
+	text-decoration: none;
+}
+.k3 {
+	font-size: 12px;
+	color: #000000;
+	font-family: "Microsoft Yahei";
+	line-height: 15px;
+	text-decoration: none;
+}
+
+td,a{font-size:13px}
+.bian {
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #999999;
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+}
+.bian2 {
+	border: 1px solid #cccccc;
+}
+.bian22 {
+	border: 1px solid #DDDDDD;
+}
+.bian3 {
+	border-right-width: 1px;
+	border-top-style: none;
+	border-right-style: dashed;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-right-color: #999999;
+}
+.bian4 {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #999999;
+}
+.yyy {
+	font-size: 12px;
+	line-height: 20px;
+	font-weight: normal;
+}
+
+
+
+
+/*	手动添加样式-开始	*/
+#head
+{
+	width:1003px; height:30px; background-color:#F00; margin:0px; padding:0px; margin:auto; 
+}
+#info
+{
+	float:left; width:450px; height:30px; line-height:30px; margin:0px; padding:0px;
+}
+/*	手动添加样式-结束	*/
